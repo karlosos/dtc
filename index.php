@@ -26,6 +26,7 @@ include 'includes/overall/head.php';
  */
 include 'includes/overall/logo.php';
 
+//Do poprawy (test githuba)
 if(isset($_GET['s_e']) && $_GET['s_e']) {
     include 'includes/search/set_bar.php';
     if(error_exists($_GET['s_e'])) {
