@@ -1,0 +1,6 @@
+Options +FollowSymLinks -MultiViews
+RewriteEngine On
+RewriteBase /dtc/
+
+#Przekierowanie ze strony /error/test na index.php?s_e=test itd.
+RewriteRule ^error/([^-]+)$ index.php?s_e=$1 [L]

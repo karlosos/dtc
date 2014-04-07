@@ -6,7 +6,7 @@
  */
 ?>
 <div id="search"> 
-	<form>
+	<form action="do_search.php">
 		<input id="search" type="text" name="s_e">
 	</form>
 </div>
