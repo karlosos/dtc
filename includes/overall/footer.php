@@ -16,6 +16,7 @@
         <?php 
         }
         ?>
+            <a href="error_list.php"> Wszystkie błędy </a>
 	</footer>
 </body>
 
