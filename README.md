@@ -11,3 +11,6 @@ Wszystkie zmiany wykonywane przed wrzuceniem na github dostępne w pliku Plikzmi
 * nie odpowiadamy za błędy, hehe
 * pasek na dole
 * podatpna reklama hehe
+* zmienic linie w wyswietlaniu bledow
+* mysql zmiana jak w mailu
+* javascript autocomplete
